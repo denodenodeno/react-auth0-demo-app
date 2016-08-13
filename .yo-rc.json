@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "appName": "reactFluxAuth0App",
+    "style": "sass",
+    "postcss": false,
+    "generatedWithVersion": 3
+  }
+}
